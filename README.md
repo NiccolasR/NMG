@@ -29,14 +29,12 @@ dataset_info:
     dtype: float64
   - name: categories
     dtype: string
-  - name: __index_level_0__
-    dtype: int64
   splits:
   - name: yelp_restaurant_CA_2021
-    num_bytes: 14130407
+    num_bytes: 13983207
     num_examples: 18400
-  download_size: 7537625
-  dataset_size: 14130407
+  download_size: 7432456
+  dataset_size: 13983207
 configs:
 - config_name: default
   data_files:
